@@ -115,9 +115,7 @@ algo-bias-auditor/
 │   ├── regression.py         # OLS simple and multiple regression
 │   ├── fairness.py           # Fairness metrics (DI, EO, CI, parity)
 │   └── ml_model.py           # Logistic Regression training
-├── logo.png
 ├── logo_white.png
-├── icon.png
 ├── requirements.txt
 └── README.md
 ```
